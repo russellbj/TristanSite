@@ -5,4 +5,4 @@ To run this project:
 
 - Clone repo
 - Run `cd TristanSite/TristanSite`
-- Run `node index.html`
+- Run `start index.html`
